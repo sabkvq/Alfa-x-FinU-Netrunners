@@ -52,12 +52,12 @@
 18. Создание презентации
 19. Защита результатов проекта
 
-## Команда
-- Надежда Агафонова
-- [Артур Артиков](https://github.com/ArturArtikov/)
-- [Степан Золин](https://github.com/DrHeog)
-- [Рамиль Габдрахманов](https://github.com/ramil2911)
-- [Сергей Быков](https://github.com/sabkvq)
+## Команда Netrunners
+- [Надежда Агафонова](https://t.me/LanderWine) | Капитан команды
+- [Артур Артиков](https://github.com/ArturArtikov/) | Data Scientist | Data Analyst
+- [Степан Золин](https://github.com/DrHeog) | ML Engineer
+- [Рамиль Габдрахманов](https://github.com/ramil2911) | ML-Engineer
+- [Сергей Быков](https://github.com/sabkvq) | Data Analyst
 
 ## Используемый стек и технологии
 
