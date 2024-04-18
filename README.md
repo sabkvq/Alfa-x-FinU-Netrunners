@@ -1,5 +1,9 @@
 # Alfa FinU Hack. Команда Netrunners
 
+
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/1_personal_projects/project1.png" height=150 align="left">
+
+
 ## Описание
 
 - Предметная область: Онлайн-банкинг
