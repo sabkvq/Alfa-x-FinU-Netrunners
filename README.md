@@ -43,7 +43,7 @@
 - [Рамиль Габдрахманов](https://github.com/ramil2911)
 - [Сергей Быков](https://github.com/sabkvq)
 
-## Используемый степ и технологии
+## Используемый сте и технологии
 
 ![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-ffffff.svg?style=for-the-badge&logo=google-colab&logoColor=orange)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
