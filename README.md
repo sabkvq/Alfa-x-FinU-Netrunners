@@ -2,11 +2,13 @@
 
 ## Описание
 
-<img src="https://github.com/sabkvq/Alfa-x-FinU-Netrunners/blob/main/media/main_photo.jpg" height=200 align="left">
+<img src="https://github.com/sabkvq/Alfa-x-FinU-Netrunners/blob/main/media/main_photo.jpg" height=150 align="left">
 
 - Предметная область: Онлайн-банкинг
 - Бизнес-задача: Построение модели, которая будет предсказывать продуктовый кластер клиента - Юридического лица на горизонте в 12 месяцев.
 - Результат работы модели: Модель, которая будет выдавать вероятности перехода в каждый из 17 продуктовых кластеров.
+
+</br>
 
 ## Входные данные
 
