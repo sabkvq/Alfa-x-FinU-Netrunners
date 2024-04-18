@@ -10,8 +10,8 @@
 
 - train_data.pqt - тренировочный датасет с данными клиентов, а также информацией о предсказанных конечных классах (скрыт по требованию Альфа-банка)
 - test_data.pqt - тестовый датасет, для которого необходимо получить вероятности попадания клиента в продуктовые кластеры (скрыт по требованию Альфа-банка)
-- cluster_weights.xlsx - коэффициенты значимости кластеров
-- feature_description.xlsx - описание признаков датасетов
+- [cluster_weights.xlsx](https://github.com/sabkvq/Alfa-x-FinU-Netrunners/blob/main/cluster_weights.xlsx) - коэффициенты значимости кластеров
+- [feature_description.xlsx](https://github.com/sabkvq/Alfa-x-FinU-Netrunners/blob/main/feature_description.xlsx) - описание признаков датасетов
 
 ## Этапы работы
 
