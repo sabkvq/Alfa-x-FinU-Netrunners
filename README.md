@@ -1,5 +1,8 @@
 # Alfa FinU Hack. Команда Netrunners
 
+<img src="https://github.com/sabkvq/Alfa-x-FinU-Netrunners/blob/main/media/main_photo.jpg" align="left">
+
+
 ## Описание
 
 <img src="https://github.com/sabkvq/Alfa-x-FinU-Netrunners/blob/main/media/main_photo.jpg" height=150 align="left">
