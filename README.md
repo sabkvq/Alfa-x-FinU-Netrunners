@@ -2,7 +2,7 @@
 
 ## Описание
 
-<img src="https://github.com/sabkvq/Alfa-x-FinU-Netrunners/blob/main/media/main_photo.jpg" height=400 align="right">
+<img src="https://github.com/sabkvq/Alfa-x-FinU-Netrunners/blob/main/media/main_photo.jpg" height=350 align="right">
 
 - Предметная область: Онлайн-банкинг
 - Бизнес-задача: Построение модели, которая будет предсказывать продуктовый кластер клиента - Юридического лица на горизонте в 12 месяцев.
